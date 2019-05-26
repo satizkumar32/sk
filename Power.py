@@ -1,4 +1,5 @@
-N=input("")
-k=input("")
-x=N**k
-print(int(x))
+a=input("")
+b=input("")
+c=int(a)
+d=int(b)
+print(c**d)
