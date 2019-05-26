@@ -1,4 +1,4 @@
-N=float(input(""))
-k=float(input(""))
+N=input("")
+k=input("")
 x=N**k
 print(int(x))
