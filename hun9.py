@@ -7,4 +7,4 @@ for i in range(0,len(hs)-1):
     if abs(hs[i]+hs[j])<os:
       xx,yy=hs[i],hs[j]
       os=abs(xx+yy)
-print(x,y)
+print(xx,yy)
