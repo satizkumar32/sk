@@ -1,0 +1,12 @@
+n=int(input())
+po=len(str(n))
+arm=n
+t=0
+while(0<inp<=100000):
+    rem=n%10
+    t=t+(rem**po)
+    n//=10
+if(t==arm):
+    print("yes")
+else:
+    print("no")
