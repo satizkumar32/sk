@@ -1,2 +1,2 @@
-x=input()
-print(x[::-1])
+sk=input()
+print(sk[::-1])
