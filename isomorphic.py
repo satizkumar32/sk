@@ -1,8 +1,8 @@
-as,ast=map(str,input().split())
-if(len(as)!=len(as)):
+mass,mash=map(str,input().split())
+if(len(mass)!=len(mass)):
   print("no")
-c=[as.count(i) for i in as]
-d=[ast.count(i) for i in ast]
+c=[mass.count(i) for i in mass]
+d=[mash.count(i) for i in mash]
 if c==d:
   print("yes")
 else:
