@@ -1,4 +1,4 @@
 aaa,bbb=input().split()
 bbb=int(bbb)
-for i in range(bbbb):
+for i in range(bbb):
   print(aaa)
