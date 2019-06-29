@@ -1,5 +1,5 @@
 jk=int(input())
-jk=str(j)
+jk=str(jk)
 f=0
 for i in range(0,len(jk)):
  if(jk[i]=='0' or jk[i]=='1'):
