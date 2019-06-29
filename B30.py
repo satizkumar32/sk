@@ -1,0 +1,5 @@
+aa1,aa2=map(int,input().split())
+bb1,bb2=map(int,input().split())
+cc1=abs(aa1-bb1)
+cc2=abs(aa2-bb2)
+print(cc1,cc2)
