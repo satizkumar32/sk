@@ -1,4 +1,4 @@
 vjs=int(input())
-vs=vj/2
+vs=vjs/2
 vk=vjs-1
 print(int(vk*vs))
